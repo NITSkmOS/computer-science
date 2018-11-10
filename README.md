@@ -158,8 +158,10 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week | none
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week | How to Code: Simple Data
+[Introduction to Programming in C Specialization](https://www.coursera.org/specializations/c-programming) | 10 weeks | 5-7 hours/week | none
 [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) | 6 weeks | 8-10 hours/week | How to Code - Complex Data
 [Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | 6 weeks | 8-10 hours/week | Software Construction - Data Abstraction
+[Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming) | 12 weeks | 7-9 hours/weeks | none
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 8-16 hours/week | recommended: Java, C
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 8-16 hours/week | Programming Languages, Part A
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 8-16 hours/week | Programming Languages, Part B
@@ -190,6 +192,8 @@ Courses | Duration | Effort | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
+[Khan Academy-Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | - | - | none
+[Khan Academy-Calculus](https://www.khanacademy.org/math/calculus-1) | - | - | none
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | pre-calculus
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
 [Calculus One](https://www.coursera.org/learn/calculus1)<sup>*1*</sup> ([alt](https://mooculus.osu.edu/)) | 16 weeks | 8-10 hours/week | pre-calculus
@@ -324,6 +328,7 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Calculus: Parametric Equations and Polar Coordinates](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/) | - | - | single-variable calculus (Calculus Two)
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 13 weeks | 12 hours/week | Parametric Equations and Polar Coordinates
+[Khan Academy-Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus) | - | - | calculus
 [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | 18 weeks | 12 hours/week | Multivariable Calculus
 
 ### Advanced systems
